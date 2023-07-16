@@ -39,9 +39,6 @@ The app can be further improved with the following enhancements:
 - Offline Mode: Implement offline caching of magazine content to allow users to read magazines without an internet connection.
 - Magazine Categories: Introduce categories or tags for magazines to help users discover specific types of magazines more easily.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
