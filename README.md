@@ -1,0 +1,2 @@
+# Magz
+Magz App
